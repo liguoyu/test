@@ -2,7 +2,7 @@
     "name": "liguoyu/test",
     "description": "test",
     "type": "library",
-    "license": "mimt",
+    "license": "MIT",
     "authors": [
         {
             "name": "李国玉",
