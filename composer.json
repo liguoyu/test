@@ -1,0 +1,13 @@
+{
+    "name": "madman/test",
+    "description": "test",
+    "type": "library",
+    "license": "mimt",
+    "authors": [
+        {
+            "name": "李国玉",
+            "email": "657090156@qq.com"
+        }
+    ],
+    "require": {}
+}
